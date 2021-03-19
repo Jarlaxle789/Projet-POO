@@ -121,23 +121,36 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CL_CAD.cpp" />
+    <ClCompile Include="CL_CAD_Stat.cpp" />
     <ClCompile Include="CL_map.cpp" />
     <ClCompile Include="CL_map_Adresse.cpp" />
+    <ClCompile Include="CL_map_article.cpp" />
     <ClCompile Include="CL_map_Client.cpp" />
     <ClCompile Include="CL_map_Date.cpp" />
+    <ClCompile Include="CL_map_Stat.cpp" />
     <ClCompile Include="CL_svc.cpp" />
+    <ClCompile Include="CL_svc_Stat.cpp" />
     <ClCompile Include="MyForm.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CL_CAD.h" />
+    <ClInclude Include="CL_CAD_Stat.h" />
     <ClInclude Include="CL_map.h" />
     <ClInclude Include="CL_map_Adresse.h" />
+    <ClInclude Include="CL_map_article.h" />
     <ClInclude Include="CL_map_Client.h" />
     <ClInclude Include="CL_map_Date.h" />
+    <ClInclude Include="CL_map_Stat.h" />
     <ClInclude Include="CL_svc.h" />
+    <ClInclude Include="CL_svc_Stat.h" />
     <ClInclude Include="MyForm.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MyForm.resx">
+      <DependentUpon>MyForm.h</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

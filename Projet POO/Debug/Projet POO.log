@@ -1,0 +1,58 @@
+﻿  CL_map_Stat.cpp
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(4,5): error C2653: 'CL_map' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(5,5): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(6,9): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(7,9): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(8,9): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(9,9): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(10,9): error C2065: 'adresse' : identificateur non déclaré
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(10,39): error C2061: erreur de syntaxe : identificateur 'CL_map_Adresse'
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(11,9): error C2065: 'date' : identificateur non déclaré
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(11,33): error C2061: erreur de syntaxe : identificateur 'CL_map_Date'
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(12,5): warning C4508: 'NS_Composants::CL_map' : la fonction doit retourner une valeur ; type de retour 'void' pris par défaut
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(14,13): error C2653: 'CL_map' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(21,13): error C2653: 'CL_map' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(24,69): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(24,95): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(24,115): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(26,52): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(26,91): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(26,128): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(28,51): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(28,84): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(28,117): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(31,13): error C2653: 'CL_map' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(34,29): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(34,64): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(34,118): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(35,38): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(37,33): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(37,80): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(37,122): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(38,38): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(40,32): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(40,72): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(40,113): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(41,38): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(44,13): error C2653: 'CL_map' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(47,38): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(50,10): error C2653: 'CL_map' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(54,13): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(58,10): error C2653: 'CL_map' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(62,13): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(66,10): error C2653: 'CL_map' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(70,13): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(74,10): error C2653: 'CL_map' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(78,13): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(82,9): error C2653: 'CL_map' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(84,16): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(87,13): error C2653: 'CL_map' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(89,16): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(92,13): error C2653: 'CL_map' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(94,16): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(97,13): error C2653: 'CL_map' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_map_Stat.cpp(99,16): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+  MyForm.cpp
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\MyForm.h(273,1): error C2660: 'NS_Svc::CL_svc::ajouter' : la fonction ne prend pas 0 arguments
+C:\Users\sgug7\source\repos\Projet POO\Projet POO\CL_svc.h(24,7): message : voir la déclaration de 'NS_Svc::CL_svc::ajouter'
+  Génération de code en cours...
